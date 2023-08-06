@@ -1,2 +1,2 @@
 # Crop_protection
-Smart crop protection using Arduino
+Smart crop protection using respberry pi
